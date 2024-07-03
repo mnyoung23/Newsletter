@@ -1,0 +1,112 @@
+
+            <div id="Note">
+                <h2 style="color: #4C9CCF; font-family: sans-serif; padding: 0 1rem;">Note from the Editors</h2>
+                <p style="padding: 0 1rem; padding-bottom: 2rem;">
+                    Greetings all. Welcome to the first monthly Myrobalan Education & Learning Committee newsletter.
+                    Our goal is to provide a centralized resource to regularly share research, news, and upcoming
+                    professional development and networking events to the broader team.
+                    As this is the first issue of this newsletter, we welcome any and all feedback you have to iterate,
+                    improve upon,
+                    and ultimately build this into a valuable resource for all members of the company. </p>
+            </div>
+            <div id="contents"
+                style="background: rgb(230, 230, 230); border-radius: 5px; font-family: sans-serif; padding: 1rem; width: 95%">
+                <h2 style="color: #4C9CCF">Contents</h2>
+                <ul style="display: flex; flex-direction: column; gap: 10px; font-weight:600; list-style-type: none;">
+                    <li><a href="#pub-anchor" style="text-decoration: none; color:black;">Publications</a></li>
+                    <li><a href="#news-anchor" style="text-decoration: none; color:black;">Industry News</a></li>
+                    <li><a href="#events-anchor" style="text-decoration: none; color:black;">Upcoming Events</a></li>
+                </ul>
+            </div>
+            <div id="Publications" style="font-family: sans-serif; padding: 1rem">
+                <h2 id="pub-anchor" style="color: #4C9CCF">Publications</h2>
+                <ul style="display: flex; flex-direction: column; gap: 2rem">
+
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            Jack, CR., et al. Revised criteria for diagnosis and staging of Alzheimer's disease:
+                            Alzheimer's association workgroup. Alzheimer's and Dementia.
+                        </p>
+                        <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.13859"
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0; text-decoration:none; padding: 0.1rem 0.5rem; display: flex; justify-content: center; align-items:center">
+                            Open Access</a>
+                    </li>
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            Chatterjee, M., et al. Plasma extreacellular vesicle tau and TDP-43 as diagnostic biomarkers
+                            in FTD and ALS. Nature Medicine.
+                        </p>
+                        <a href="https://www.nature.com/articles/s41591-024-02937-4"
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0; text-decoration:none; padding: 0.1rem 0.5rem; display: flex; justify-content: center; align-items:center">
+                            Open Access</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="News" style="font-family: sans-serif; padding: 1rem">
+                <h2 id="news-anchor" style="color: #4C9CCF">Industry News</h2>
+                <ul style="display: flex; flex-direction: column; gap: 1rem">
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            China biotech ban does not make the cut as add-on to defense spending bill -Endpoint News
+                            (6/12)
+                        </p>
+                        <button
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0">Read
+                            Article</button>
+                    </li>
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            FDA advisors recommend Eli Lilly's Alzheimer's drug donanemab, paving way for approval -
+                            CNBC (6/10)
+                        </p>
+                        <button
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0">Read
+                            Article</button>
+                    </li>
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            Alumis files for IPO ahead of Phase 3 studies for second-gen TYK2 inhibitor - Endpoints News
+                            (6/10)
+                        </p>
+                        <button
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0">Read
+                            Article</button>
+                    </li>
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            Results of Woolsey Pharmaceuticals' Phase 2a Study of BRAVYL in ALS Patients Shows
+                            Statistically Significant Reduction in Neurofilament Light and Directionally Improved
+                            Clinical Outcomes - PR Newswire (6/19)
+                        </p>
+                        <button
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0">Read
+                            Article</button>
+                    </li>
+                    <li style="display: flex; flex-direction: column; gap:0 ;">
+                        <p>
+                            Researchers plan to retract landmark Alzheimer's paper containing doctored images - Science
+                            (6/4)
+                        </p>
+                        <button
+                            style="width: 100px; height: 1.5rem; border-radius: 1.5rem; background: #7AC8B3; color: #FFF; border-width: 0">Read
+                            Article</button>
+                    </li>
+                </ul>
+            </div>
+            <div id="Events" style="font-family: sans-serif; padding: 1rem">
+                <h2 id="events-anchor" style="color: #4C9CCF">Upcoming Events</h2>
+                <ul style="display: flex; flex-direction: column; gap: 1rem">
+                    <li>
+                        <span>
+                            China biotech ban does not make the cut as add-on to defense spending bill -Endpoint News
+                            (6/12)
+                        </span>
+                    </li>
+                    <li>
+                        <span>
+                            FDA advisors recommend Eli Lilly's Alzheimer's drug donanemab, paving way for approval -
+                            CNBC (6/10)
+                        </span>
+                    </li>
+                </ul>
+            </div>
